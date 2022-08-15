@@ -1,6 +1,6 @@
 {
     "name": "antonizer/pdfparser",
-    "description": "Pdf parser library. Can read and extract information from pdf file.",
+    "description": "Pdf parser library. Can read and extract information from pdf file. Fork from https://github.com/smalot/pdfparser",
     "keywords": ["PDF", "text", "parser", "parse", "extract"],
     "type": "library",
     "license": "LGPL-3.0",
