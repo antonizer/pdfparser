@@ -1,13 +1,13 @@
 {
-    "name": "smalot/pdfparser",
+    "name": "antonizer/pdfparser",
     "description": "Pdf parser library. Can read and extract information from pdf file.",
     "keywords": ["PDF", "text", "parser", "parse", "extract"],
     "type": "library",
     "license": "LGPL-3.0",
     "authors": [
         {
-            "name": "Sebastien MALOT",
-            "email": "sebastien@malot.fr"
+            "name": "Antonizer",
+            "email": "me@antonizer.com"
         }
     ],
     "support": {
